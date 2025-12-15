@@ -105,16 +105,7 @@ chrome-ai-summarizer/
 └── README.md
 ```
 
-chrome-ai-summarizer/
-│── manifest.json
-│── popup.html
-│── popup.js
-│── content.js
-│── background.js
-│── styles.css
-└── README.md
 
-```
 
 ---
 
